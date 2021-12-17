@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ad36746-7927-4991-a835-aabc6248e205" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rllib/algorithms/dcpu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/TODO.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/Bandit Comparison.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/inverted_pendulum/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/inverted_pendulum/plotters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/inverted_pendulum/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/inverted_pendulum/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/agents/bptt.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/agents/data_augmentation.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/agents/default.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/agents/mpc.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/agents/mve.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/envs/ant.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/envs/cart-pole-mujoco.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/envs/half-cheetah.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/envs/hopper.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/envs/inverted-double-pendulum.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/envs/inverted-pendulum.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/envs/pusher.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/envs/reacher2d.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/envs/reacher3d.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/config/envs/walker2d.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/mujoco/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/exps/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/agent/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/agent/model_based/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/agent/model_based/mbmpo_agent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/agent/model_based/mbmpo_agent.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/agent/model_based/model_based_agent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/agent/model_based/model_based_agent.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/agent/model_based/mpc_agent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/agent/model_based/mpc_agent.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/agent/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/agent/tests/test_mpc_agent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/algorithms/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/algorithms/mbmpo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/algorithms/mbmpo.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/hallucination_wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/hallucination_wrapper.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/mujoco/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/mujoco/assets/cartpole.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/mujoco/assets/half_cheetah.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/mujoco/assets/pusher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/mujoco/assets/reacher3d.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/mujoco/cartpole.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/mujoco/cartpole.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/mujoco/half_cheetah.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/mujoco/half_cheetah.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/mujoco/pusher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/mujoco/pusher.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/mujoco/reacher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/environment/mujoco/reacher.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/model/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/model/hallucinated_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/model/hallucinated_model.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/policy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/policy/augmented_policy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/policy/augmented_policy.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/policy/derived_policy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/policy/derived_policy.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/policy/tests/test_derived_policy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/reward/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/reward/mujoco_rewards.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/reward/mujoco_rewards.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/reward/tests/test_mujoco_rewards.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/hucrl/utilities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/scripts/remote_test_code.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/scripts/test_code.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/setup.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hucrl/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/agent/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/agent/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/agent/abstract_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/agent/abstract_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/agent/model_based/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/agent/model_based/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/agent/model_based/bptt_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/agent/model_based/dcpu_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/agent/model_based/derived_model_based_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/agent/model_based/derived_model_based_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/agent/model_based/model_based_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/agent/model_based/model_based_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/agent/off_policy/sac_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/agent/off_policy/sac_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/algorithms/abstract_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/algorithms/abstract_algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/algorithms/abstract_mb_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/algorithms/abstract_mb_algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/algorithms/bptt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/algorithms/data_augmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/algorithms/data_augmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/algorithms/derived_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/algorithms/derived_algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/algorithms/dyna.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/algorithms/dyna.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/algorithms/sac.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/algorithms/sac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/dataset/experience_replay/bootstrap_experience_replay.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/dataset/experience_replay/bootstrap_experience_replay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/model/ensemble_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/model/ensemble_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/util/losses/kl_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/util/losses/kl_loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/util/losses/pathwise_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/util/losses/pathwise_loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/util/neural_networks/utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/util/neural_networks/utilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rllib/value_function/model_based_q_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/rllib/value_function/model_based_q_function.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="e690fc9f-5819-4b73-8ae0-a584eb330640" />
+  <component name="ProjectId" id="1qgzS4tg77WsspQ4dYJxNAzk9Qg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ad36746-7927-4991-a835-aabc6248e205" name="Default Changelist" comment="" />
+      <created>1617516018341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617516018341</updated>
+      <workItem from="1617516019464" duration="241554000" />
+      <workItem from="1619494075147" duration="27103000" />
+      <workItem from="1620545696141" duration="1581000" />
+      <workItem from="1620552335862" duration="777000" />
+      <workItem from="1620560370500" duration="1617000" />
+      <workItem from="1620565313701" duration="5863000" />
+      <workItem from="1620612188926" duration="24244000" />
+      <workItem from="1622613828650" duration="1012000" />
+      <workItem from="1622615104025" duration="1489000" />
+      <workItem from="1628441622241" duration="921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="719" y="299" width="514" height="545" key="RollbackChangesDialog" timestamp="1619593415251">
+      <screen x="56" y="23" width="1736" height="1097" />
+    </state>
+    <state x="718" y="299" key="RollbackChangesDialog/54.23.1738.1097@54.23.1738.1097" timestamp="1618984014131" />
+    <state x="719" y="299" width="514" height="545" key="RollbackChangesDialog/56.23.1736.1097@56.23.1736.1097" timestamp="1619593415251" />
+    <state x="720" y="299" key="RollbackChangesDialog/57.23.1735.1097@57.23.1735.1097" timestamp="1618736710282" />
+    <state x="589" y="268" width="670" height="676" key="search.everywhere.popup" timestamp="1618896568479">
+      <screen x="56" y="23" width="1736" height="1097" />
+    </state>
+    <state x="589" y="268" width="670" height="676" key="search.everywhere.popup/56.23.1736.1097@56.23.1736.1097" timestamp="1618896568479" />
+  </component>
+</project>
